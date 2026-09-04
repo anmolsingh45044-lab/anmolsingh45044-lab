@@ -160,53 +160,25 @@ I'm a **Full-Stack AI Developer** passionate about building meaningful, scalable
 
 ## 🐍 Contribution Snake
 
-![GitHub Contribution Snake](./dist/github-contribution-grid-snake.svg)
-
 <div align="center">
 
-<!--
-GitHub Action:
-Create .github/workflows/snake.yml with the workflow below.
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: [YOUR_USERNAME]
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=EF93C4&color_dots=#F8BBD0,#EF93C4,#FF69B4
-
-      - name: Push snake
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "chore: update contribution snake"
-          add: "dist"
-
--->
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake animation">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./dist/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./dist/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="./dist/github-contribution-grid-snake.svg"
+    width="95%"
+    alt="GitHub contribution snake animation"
+  />
 </picture>
 
 </div>
-
----
 
 ## 🌸 Let's Connect
 
