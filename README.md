@@ -6,9 +6,9 @@
 
 <!-- Responsive Light/Dark Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&text=[YOUR_NAME]&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=[YOUR_TAGLINE]&descAlignY=60&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=220&section=header&text=[YOUR_NAME]&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=[YOUR_TAGLINE]&descAlignY=60&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&text=[YOUR_NAME]&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=[YOUR_TAGLINE]&descAlignY=60&descSize=18" width="100%" alt="[YOUR_NAME] banner">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&text=Anmol&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Code that just works&descAlignY=60&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=220&section=header&text=Anmol&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=just think and build&descAlignY=60&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&text=Anmol&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Code less do more&descAlignY=60&descSize=18" width="100%" alt="[YOUR_NAME] banner">
 </picture>
 
 <br>
