@@ -162,21 +162,11 @@ I'm a **Full-Stack AI Developer** passionate about building meaningful, scalable
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./dist/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./dist/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="./dist/github-contribution-grid-snake.svg"
-    width="95%"
-    alt="GitHub contribution snake animation"
-  />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/anmolsingh45044-lab/anmolsingh45044-lab/main/dist/github-contribution-grid-snake.svg"
+  width="95%"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
