@@ -160,6 +160,8 @@ I'm a **Full-Stack AI Developer** passionate about building meaningful, scalable
 
 ## 🐍 Contribution Snake
 
+![GitHub Contribution Snake](./dist/github-contribution-grid-snake.svg)
+
 <div align="center">
 
 <!--
