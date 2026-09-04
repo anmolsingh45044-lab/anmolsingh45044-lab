@@ -8,7 +8,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&text=Anmol&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Code that just works&descAlignY=60&descSize=18">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:EF93C4&height=220&section=header&text=Anmol&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=just think and build&descAlignY=60&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&text=Anmol&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Code less do more&descAlignY=60&descSize=18" width="100%" alt="[YOUR_NAME] banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:FF69B4&height=220&section=header&text=Anmol&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Code less do more&descAlignY=60&descSize=18" width="100%" alt="Anmol banner">
 </picture>
 
 <br>
@@ -16,25 +16,25 @@
 # Hey there, I'm Anmol 👋
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=700&lines=[YOUR_ROLE];[YOUR_SPECIALIZATION];[YOUR_CURRENT_FOCUS];[YOUR_TAGLINE]"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=700&lines=Gen AI Specialist;AIML;DSA and Deep Learning;Code for fun"
   alt="Typing animation"
 />
 
 <br>
 
-<a href="https://github.com/[YOUR_USERNAME]">
+<a href="https://github.com/anmolsingh45044-lab">
   <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1A1A1A" alt="GitHub followers">
 </a>
 &nbsp;
-<a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
-  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1A1A1A" alt="GitHub stars">
+<a href="https://github.com/anmolsingh45044-lab?tab=repositories">
+  <img src="https://img.shields.io/github/stars/anmolsingh45044-lab?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1A1A1A" alt="GitHub stars">
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&style=for-the-badge&color=FF69B4&labelColor=1A1A1A" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=anmolsingh45044-lab&label=Profile%20Views&style=for-the-badge&color=FF69B4&labelColor=1A1A1A" alt="Profile views">
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-[YOUR_USERNAME]-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[YOUR_USERNAME])
+[![GitHub](https://img.shields.io/badge/GitHub-anmolsingh45044-lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[YOUR_USERNAME])
 
 </div>
 
@@ -65,7 +65,7 @@ I'm a **Full-Stack AI Developer** passionate about building meaningful, scalable
 
 <br>
 
-<a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
+<a href="https://github.com/anmolsingh45044-lab?tab=repositories">
   <img src="https://img.shields.io/badge/Explore%20My%20Work-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work">
 </a>
 
@@ -76,13 +76,13 @@ I'm a **Full-Stack AI Developer** passionate about building meaningful, scalable
 <img
   src="[YOUR_PROFILE_IMAGE_URL]"
   width="260"
-  alt="[YOUR_NAME] profile image"
+  alt="Anmol profile image"
   style="border-radius: 50%;"
 />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/[YOUR_SPECIALTY]-EF93C4?style=flat-square&labelColor=1A1A1A" alt="[YOUR_SPECIALTY]">
+<img src="https://img.shields.io/badge/-EF93C4?style=flat-square&labelColor=1A1A1A" alt="[YOUR_SPECIALTY]">
 <br>
 <img src="https://img.shields.io/badge/[YOUR_SECOND_SPECIALTY]-F8BBD0?style=flat-square&labelColor=1A1A1A" alt="[YOUR_SECOND_SPECIALTY]">
 
